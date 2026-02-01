@@ -1,3 +1,7 @@
+---
+layout: default
+title: Chirag Baranda | Home Lab & IT Portfolio
+---
 
 # Hi, I’m Chirag 👋
 
